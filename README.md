@@ -20,16 +20,15 @@ project. Our project is more trivial and made to fit our internal workflow.
 
 If you have any requests or recommendations: open a pull request, an issue, or email [info@csxlabs.org](mailto:info@csxlabs.org).
 ## Technologies
- 
-Technologies are still being planned. If you have any requests or recommendations, open a pull request or an issue. 
+
+The technologies for this project aren't completley decidced yet and therefore this list is incomplete.
 | Technology | Type | Description | 
 :- | :- | :-
 | [Python](https://www.python.org/) | Language | Python is an interpreted, object-oriented, high-level programming language with dynamic semantics
 
 ## Supported Integrations
  
-These are the integrations that CSXL will be using internally, and will be in-turn supported out-of-the box. 
-If you have any requests or recommendations for other integrations, open a pull request or an issue. 
+These are the integrations that CSXL will be using internally, and will be in-turn supported out-of-the box. This list is incomplete.
 | Integration | Type | Description | 
 :- | :- | :-
 | [Discord](https://www.discord.com/) | Instant messaging and VoIP | Discord is a VoIP, instant messaging and digital distribution platform. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers".
