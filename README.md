@@ -24,7 +24,7 @@ If you have any requests or recommendations: open a pull request, an issue, or e
 The technologies for this project aren't completley decidced yet and therefore this list is incomplete.
 | Technology | Type | Description | 
 :- | :- | :-
-| [Python](https://www.python.org/) | Language | Python is an interpreted, object-oriented, high-level programming language with dynamic semantics
+| [Python](https://www.python.org/) | Language | Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
 
 ## Supported Integrations
  
